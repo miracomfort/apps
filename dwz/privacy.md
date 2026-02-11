@@ -4,43 +4,40 @@
 
 ### 1. Verantwortlicher
 
-Verantwortlich für diese App ist:
+Diese App wird bereitgestellt von:
 
 Mira Comfort
+
 E-Mail: miracomfort.solutions@gmail.com
 
-### 2. Erhobene Daten
+### 2. Datenerhebung
 
-DWZ Tracker erhebt, speichert oder verarbeitet keine personenbezogenen Daten der Nutzer.
+DWZ App **erhebt keine personenbezogenen Daten** der Nutzer.
 
 Die App:
+- erhebt keinerlei personenbezogene Daten,
 - verwendet keine Benutzerkonten,
-- speichert keine personenbezogenen Daten auf eigenen Servern,
-- verwendet keine Analyse- oder Tracking-Tools,
-- enthält keine Werbe- oder Marketing-Frameworks,
-- übermittelt keine personenbezogenen Daten an Dritte.
+- speichert keinerlei personenbezogene Daten,
+- verwendet keine Analyse-, Tracking- oder Werbe-Frameworks,
+- gibt keinerlei personenbezogene Daten weiter.
 
-### 3. Verwendete Datenquellen
+### 3. Öffentliche Datenquellen
 
-Die App synchronisiert ausschließlich öffentlich zugängliche Schach-Wertungsdaten (DWZ, Elo).
-Diese Daten stammen aus öffentlich verfügbaren Quellen und werden ausschließlich zur Anzeige innerhalb der App verwendet.
+Die App zeigt ausschließlich **öffentlich zugängliche Schach-Wertungsdaten** (DWZ, Elo) an.
+Diese Daten sind nicht personenbezogen im Sinne der App-Nutzung und werden ausschließlich zur Darstellung innerhalb der App verwendet.
 
 ### 4. Benachrichtigungen
 
 Die App kann optional die Erlaubnis anfragen, Mitteilungen (Push-Benachrichtigungen) zu senden.
-Benachrichtigungen dienen ausschließlich der Information über Wertungsänderungen.
+Benachrichtigungen werden ausschließlich lokal zur Information über Wertungsänderungen verwendet.
 
 Die Erlaubnis kann jederzeit in den iOS-Einstellungen widerrufen werden.
 
 ### 5. Internetverbindung
 
-Eine Internetverbindung wird ausschließlich benötigt, um öffentlich verfügbare Wertungsdaten zu synchronisieren.
+Eine Internetverbindung wird ausschließlich benötigt, um öffentlich verfügbare Wertungsdaten abzurufen.
 
-### 6. Datensicherheit
-
-Es findet keine Speicherung personenbezogener Daten durch den Entwickler statt.
-
-### 7. Kontakt
+### 6. Kontakt
 
 Bei Fragen zum Datenschutz kontaktieren Sie bitte:
 
@@ -51,45 +48,42 @@ miracomfort.solutions@gmail.com
 
 ## 🇬🇧 English
 
-### 1. Data Controller
+### 1. Provider
 
 This app is provided by:
 
 Mira Comfort
+
 Email: miracomfort.solutions@gmail.com
 
 ### 2. Data Collection
 
-DWZ Tracker does not collect, store, or process personal data of users.
+DWZ App **does not collect any personal data**.
 
 The app:
+- does not collect personal data,
 - does not use user accounts,
-- does not store personal data on external servers,
-- does not use analytics or tracking tools,
-- does not include advertising frameworks,
-- does not transmit personal data to third parties.
+- does not store personal data,
+- does not use analytics, tracking, or advertising frameworks,
+- does not share personal data.
 
-### 3. Data Sources
+### 3. Public Data Sources
 
-The app synchronizes publicly available chess rating data (DWZ, Elo).
-These ratings originate from public sources and are used solely for display within the app.
+The app displays **publicly available chess rating data** (DWZ, Elo).
+This data is not collected from users and is used solely for display within the app.
 
 ### 4. Notifications
 
-The app may optionally request permission to send push notifications.
-Notifications are used only to inform users about rating updates.
+The app may optionally request permission to send notifications.
+Notifications are used locally to inform users about rating updates.
 
 Permission can be revoked at any time in iOS Settings.
 
-### 5. Network Usage
+### 5. Network Access
 
-Internet access is required solely to synchronize publicly available rating data.
+Network access is used solely to retrieve publicly available rating data.
 
-### 6. Data Security
-
-No personal user data is stored or processed by the developer.
-
-### 7. Contact
+### 6. Contact
 
 For privacy-related questions, please contact:
 
