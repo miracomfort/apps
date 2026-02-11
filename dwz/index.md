@@ -9,10 +9,11 @@ Die App synchronisiert öffentlich zugängliche Wertungsdaten und zeigt Änderun
 - Schnelle Suche nach Spielern und Vereinen (Clubs)
 - Favoritenliste für Spieler
 - Filter (Altersklasse, Verband, Verein, FIDE-Verband, FIDE-Titel u. a.)
-- Hintergrund-Synchronisation
+- Hintergrund-Synchronisation für Favoriten
 - Benachrichtigungen bei Wertungsänderungen
 
 [Datenschutzerklärung](privacy) · [Support](support)
+
 
 ---
 
@@ -25,7 +26,7 @@ The app synchronizes publicly available rating data and highlights changes after
 - Fast search for players and clubs
 - Favorites for players
 - Filters (age group, federation, club, FIDE federation, FIDE title, and more)
-- Background synchronization
+- Background synchronization for favorite players
 - Notifications about rating changes
 
 [Privacy Policy](privacy) · [Support](support)

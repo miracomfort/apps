@@ -15,6 +15,7 @@ Benachrichtigungen werden ausschließlich verwendet, um über Wertungsänderunge
 Kontakt:
 miracomfort.solutions@gmail.com
 
+
 ---
 
 ## 🇬🇧 English
