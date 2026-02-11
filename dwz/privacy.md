@@ -6,7 +6,7 @@
 
 Diese App wird bereitgestellt von:
 
-Mira Comfort
+MIRA
 
 E-Mail: miracomfort.solutions@gmail.com
 
@@ -52,7 +52,7 @@ miracomfort.solutions@gmail.com
 
 This app is provided by:
 
-Mira Comfort
+MIRA
 
 Email: miracomfort.solutions@gmail.com
 

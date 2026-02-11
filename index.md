@@ -1,4 +1,4 @@
-# Our Apps
+# MIRA Apps
 
 We develops simple, focused iOS applications.
 
