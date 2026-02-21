@@ -1,6 +1,6 @@
 # MIRA Apps
 
-We develops simple, focused iOS applications.
+We develop simple, focused iOS applications.
 
 ## Apps
 
