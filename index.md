@@ -1,7 +1,12 @@
 # MIRA Apps
 
-We develop simple, focused iOS applications.
+We develop mobile applications and games.
 
 ## Apps
 
 - [DWZ App](dwz/)
+
+## Games
+
+- [BoomSquish](games/BoomSquish)
+
