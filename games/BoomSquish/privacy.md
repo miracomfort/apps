@@ -1,4 +1,4 @@
-x# Privacy Policy for BoomSquish
+# Privacy Policy for BoomSquish
 
 ## 🇬🇧 English
 
@@ -15,4 +15,5 @@ If you contact us by email, we will use your message only to reply and keep it o
 ## Contact
 
 **MIRA**
+
 Email: **miracomfort.solutions@gmail.com**
